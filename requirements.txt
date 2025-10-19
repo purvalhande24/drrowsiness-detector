@@ -1,0 +1,14 @@
+txt
+opencv-python==4.8.1.78
+dlib==19.24.2
+imutils==0.5.4
+scipy==1.11.3
+numpy==1.24.3
+matplotlib==3.8.0
+Commit message: Add project files - drowsiness detection system
+
+Extended description (optional):
+- Added main detection script
+- Added performance visualizations
+- Added system architecture diagram
+- Added project report
